@@ -1,0 +1,1 @@
+/home/dell/Programs/rust/My-Rust-Journey/rust_basics/target/debug/rust_basics: /home/dell/Programs/rust/My-Rust-Journey/rust_basics/src/main.rs /home/dell/Programs/rust/My-Rust-Journey/rust_basics/src/print.rs /home/dell/Programs/rust/My-Rust-Journey/rust_basics/src/variables.rs
